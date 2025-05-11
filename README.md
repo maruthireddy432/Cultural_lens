@@ -10,7 +10,6 @@ Cultural Lens is a Streamlit-based interactive web application designed to showc
 Design a solution to promote India's cultural diversity and responsible tourism using data and Streamlit.
 India’s rich cultural heritage is often underrepresented in mainstream tourism. Many traditional art forms are fading due to low awareness and uneven visitor distribution. This solution uses a data-first approach to:
 - Highlight underexplored cultural sites
-- Forecast seasonal tourism to optimize travel and resource planning
 - Suggest alternate routes that preserve fragile destinations
 
 # 🧠 Tech Stack
@@ -40,7 +39,6 @@ India’s rich cultural heritage is often underrepresented in mainstream tourism
 
 # ✅ Achievements
 - End-to-end functioning app in Streamlit
-- Integrated time series forecasting without a backend database
 - Promotes low-footprint cultural tourism with dynamic route generation
 
 # 🧩 Future Enhancements
