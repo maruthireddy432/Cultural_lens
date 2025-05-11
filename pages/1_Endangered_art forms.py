@@ -4,7 +4,7 @@ import folium
 from streamlit_folium import st_folium
 
 # Load Data
-df = pd.read_csv("data/heritage_data.csv")
+df = pd.read_csv(r"data/heritage_data.csv")
 
 st.title("🎨 Endangered Art Forms Explorer")
 
