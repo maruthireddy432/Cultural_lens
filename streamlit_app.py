@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(page_title="Cultural Lens", layout="wide")
 
-st.image(r'images\Traveller Image.png')
+st.image(r'images/Traveller Image.png')
 
 st.title("🧭 Cultural Lens")
 st.markdown("""
