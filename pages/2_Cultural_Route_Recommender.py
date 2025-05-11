@@ -5,7 +5,7 @@ from streamlit_folium import st_folium
 from recommender import get_route_recommendations
 
 # Load data
-df = pd.read_csv("data/heritage_data.csv")
+df = pd.read_csv(r"data/heritage_data.csv")
 
 st.title("🛤️ Cultural spots Recommender")
 
